@@ -97,6 +97,3 @@ This dashboard helps:
 
 ---
 
-
-
-## 📁 Project Structure
